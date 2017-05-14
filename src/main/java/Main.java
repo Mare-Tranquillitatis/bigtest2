@@ -4,4 +4,5 @@
 public class Main {
     // the beginning
     // first commit
+    // first commit in branch1
 }
